@@ -60,6 +60,10 @@ region: h3
 padding.px: 25
 region: h3
 
+-- ftd.text: Technical Content Writer
+padding.px: 25
+region: h3
+
 -- end: ftd.row
 
 
@@ -85,8 +89,9 @@ background.solid: black
 color: white
 
 
-I am a Competitive Programmer, BlockChain Developer and Back End Developer and a Front-End Developer.  
-I love to work on projects that require me to think outside the box in order to come up with
+I'm a multi-talented individual with a passion for innovation and coding. As a Competitive Programmer, I thrive on challenging coding problems and finding elegant solutions. As a Blockchain Developer, I explore the limitless possibilities of decentralized technology. Behind the scenes, I work diligently as a Backend Developer to ensure seamless functionality.
+
+Beyond coding, I delve into the world of Technical Content Writing, sharing knowledge and insights with fellow enthusiasts. As a Frontend Developer, I transform ideas into visually stunning and user-friendly interfaces.
 
 
 -- ftd.text:
@@ -94,38 +99,189 @@ text-align: center
 width.fixed.percent: 100
 padding.px: 30
 region: h2
-background.solid: black
-color: white
+background.solid: white
+color: black
 
 Experience
 
 -- ftd.text:
-padding.px: 35
+padding-top.px: 35
 region: 
 text-align: center
 width.fixed.percent: 100
 background.solid: black
 color: white
 
-WordPress Developer
+- WordPress Developer
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 June 2023 - Present.
-Write blogs on various hackathomns happening around.
-Technical Blog Writer
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+Wrote blogs on various hackathons happening around.
+
+
+-- ftd.text:
+padding-top.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+- Technical Blog Writer
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 June 2023 - Present.
-Write blogs over topics such as Web Development, Blockchain Development and Competitive Programming.
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+Wrote blogs over topics such as Web Development, Blockchain Development and Competitive Programming.
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 Have completed a blog series on the topic "Beginner's Guide To Web Development".
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 Currenty, working on a series on the topic "Beginner's Guide To Blockchain Development".
-Developer at The CodeBreakers
+
+-- ftd.text:
+padding-top.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+- Developer at The CodeBreakers
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 December 2022 - Present.
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 Created a Front-end Website as first project.
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 Currently working on a Full-Stack Website as second project.
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 Have managed 2 events with more than 100 students each from first year itself.
-Competitive Programmer
+
+-- ftd.text:
+padding-top.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+- Competitive Programmer
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 December 2022 - Present
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 4⭐@C-Language(HackerRank)
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 3⭐@Python(HackerRank)
+
+-- ftd.text:
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 2⭐@C++(HackerRank)
+
+-- ftd.text:
+padding-bottom.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
 2⭐@CodeChef (Highest Rating 1407)
+
+
+
 
 
 -- ftd.text:
@@ -133,10 +289,10 @@ text-align: center
 width.fixed.percent: 100
 padding.px: 30
 region: h2
-background.solid: black
-color: white
+background.solid: white
+color: black
 
-Connect With Me:
+Connect With Me
 
 -- ftd.text: 
 text-align: center
