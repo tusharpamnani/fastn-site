@@ -39,9 +39,9 @@ margin-left.px: 0
 
 
 -- ftd.row:
-spacing.fixed.px: 50
-margin-left.px: 150
-margin-right.px: 150
+spacing.fixed.px: 55
+margin-left.px: 65
+margin-right.px: 65
 color: black
 
 -- ftd.text: Front-End Developer
