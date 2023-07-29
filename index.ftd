@@ -1,0 +1,157 @@
+-- import: fastn-community.github.io/doc-site as ds
+
+;; -- ftd.document:
+;; og-title: My Page Title
+
+
+-- ftd.text:
+text-align: center
+width.fixed.percent: 100
+padding.px: 30
+region: h2
+background.solid: black
+color: white
+
+Hi techies!!
+
+-- ftd.text:
+text-align: center
+width.fixed.percent: 100
+padding.px: 1
+region: h2
+background.solid: black
+color: white
+padding-bottom.px:30
+
+Welcome to my Fastn Portfolio
+
+-- ftd.image: logo2.svg
+height.fixed.px: 250
+align-self: center
+alt: Image can't be displayed
+color: white
+padding.px: 1
+border-radius.px : 100
+margin-left.px: 0
+
+-- import: fastn.com/assets
+
+
+
+-- ftd.row:
+spacing.fixed.px: 50
+margin-left.px: 150
+margin-right.px: 150
+color: black
+
+-- ftd.text: Front-End Developer
+region: h3
+padding.px: 25
+
+-- ftd.text: Back-End Developer
+padding.px: 25
+region: h3
+
+-- ftd.text: Competitive Programmer
+padding.px: 25
+region: h3
+
+-- ftd.text: BlockChain Developer
+padding.px: 25
+region: h3
+
+-- end: ftd.row
+
+
+-- ftd.text:
+padding.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+I am a first-year student at Shri Ramdeobaba College of Engineering and Management, Nagpur, pursuing a Bachelor's of Technology in Computer Science Engineering (Data Science).
+My interests lie in algorithmic problem-solving, and I possess a strong understanding of Data Structures and Algorithms.
+Apart from programming, I am passionate about web development and blockchain technology. I have developed several project websites using basic HTML-CSS and JavaScript and am currently working on improving my skills in React.js and Solidity
+
+
+-- ftd.text:
+padding.px: 10
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+
+I am a Competitive Programmer, BlockChain Developer and Back End Developer and a Front-End Developer.  
+I love to work on projects that require me to think outside the box in order to come up with
+
+
+-- ftd.text:
+text-align: center
+width.fixed.percent: 100
+padding.px: 30
+region: h2
+background.solid: black
+color: white
+
+Experience
+
+-- ftd.text:
+padding.px: 35
+region: 
+text-align: center
+width.fixed.percent: 100
+background.solid: black
+color: white
+
+WordPress Developer
+June 2023 - Present.
+Write blogs on various hackathomns happening around.
+Technical Blog Writer
+June 2023 - Present.
+Write blogs over topics such as Web Development, Blockchain Development and Competitive Programming.
+Have completed a blog series on the topic "Beginner's Guide To Web Development".
+Currenty, working on a series on the topic "Beginner's Guide To Blockchain Development".
+Developer at The CodeBreakers
+December 2022 - Present.
+Created a Front-end Website as first project.
+Currently working on a Full-Stack Website as second project.
+Have managed 2 events with more than 100 students each from first year itself.
+Competitive Programmer
+December 2022 - Present
+4⭐@C-Language(HackerRank)
+3⭐@Python(HackerRank)
+2⭐@C++(HackerRank)
+2⭐@CodeChef (Highest Rating 1407)
+
+
+-- ftd.text:
+text-align: center
+width.fixed.percent: 100
+padding.px: 30
+region: h2
+background.solid: black
+color: white
+
+Connect With Me:
+
+-- ftd.text: 
+text-align: center
+width.fixed.percent: 100
+padding.px: 30
+background.solid: black
+color: white
+
+Linkedin (https://linkedin.com/in/tushar-pamnani)
+
+-- ftd.text: 
+text-align: center
+width.fixed.percent: 100
+padding.px: 15
+background.solid: black
+color: white
+
+Github (https://github.com/tusharpamnani)
